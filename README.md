@@ -1,2 +1,2 @@
 # Maps
-A visual representation of the nearest restaurant for a given location on a map. Also displays the actual user's rating of the nearest restaurant or a predicted one based off of previous user ratings.
+A visual representation of the nearest restaurant for a given location on a map. Also displays the actual user's rating of the nearest restaurant or a predicted one based off of previous user ratings. This program displays where you should be when hunger strikes since it shows the rating of the nearest restaurant. The project is completely finished, but more data can be added. Maintained by Daryl Bui.
